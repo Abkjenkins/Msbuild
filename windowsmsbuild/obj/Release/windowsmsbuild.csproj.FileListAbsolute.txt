@@ -1,0 +1,9 @@
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\bin\Release\windowsmsbuild.exe.config
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\bin\Release\windowsmsbuild.exe
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\bin\Release\windowsmsbuild.pdb
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Release\windowsmsbuild.csprojResolveAssemblyReference.cache
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Release\windowsmsbuild.Form1.resources
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Release\windowsmsbuild.Properties.Resources.resources
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Release\windowsmsbuild.csproj.GenerateResource.Cache
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Release\windowsmsbuild.exe
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Release\windowsmsbuild.pdb

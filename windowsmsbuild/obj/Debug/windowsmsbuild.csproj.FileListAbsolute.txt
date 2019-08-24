@@ -1,0 +1,17 @@
+C:\input\windowsmsbuild\windowsmsbuild\bin\Debug\windowsmsbuild.exe.config
+C:\input\windowsmsbuild\windowsmsbuild\bin\Debug\windowsmsbuild.exe
+C:\input\windowsmsbuild\windowsmsbuild\bin\Debug\windowsmsbuild.pdb
+C:\input\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.csprojAssemblyReference.cache
+C:\input\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.Form1.resources
+C:\input\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.Properties.Resources.resources
+C:\input\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.csproj.GenerateResource.cache
+C:\input\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.csproj.CoreCompileInputs.cache
+C:\input\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.exe
+C:\input\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.pdb
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.csprojAssemblyReference.cache
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.Form1.resources
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.Properties.Resources.resources
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.csproj.GenerateResource.cache
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.csproj.CoreCompileInputs.cache
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.exe
+C:\jenkins\workspace\projects\windowsmsbuild\windowsmsbuild\obj\Debug\windowsmsbuild.pdb
